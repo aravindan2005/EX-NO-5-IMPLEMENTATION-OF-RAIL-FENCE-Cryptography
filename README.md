@@ -1,5 +1,8 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
 
+## NAME: ARAVINDAN T
+## REG NO: 2305001003
+
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
 
@@ -20,7 +23,7 @@ STEP-4: Arrange the characters of the keyword in sorted order and the correspond
 STEP-5: Read the characters row wise or column wise in the former order to get the cipher text.
 
 ## PROGRAM
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -66,6 +69,7 @@ int main()
 ```
 ## OUTPUT
 
+<img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/3db29db7-5de6-495f-8ea5-143f76177dac" />
 
 ## RESULT
 Hence the experiment has been executed successfully
